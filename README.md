@@ -1,5 +1,4 @@
 ![GIF Placeholder](https://usagif.com/wp-content/uploads/gifs/water-20.gif)  
-*Imagine a GIF here covering this entire section.*  
 
 # Hello, Devs! 👋  
 
