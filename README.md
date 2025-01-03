@@ -1,4 +1,4 @@
-![GIF Divertido](https://media1.tenor.com/m/stKjYPvgKDgAAAAd/dvd-old.gif)
+![Banner](img/banner.png)
 
 # Hello, Devs! 👋  
 
