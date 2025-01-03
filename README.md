@@ -1,4 +1,4 @@
-![Banner](img/banner.png)
+![Banner](img/banner.webp)
 
 ### Hello, Devs! 👋  
 
