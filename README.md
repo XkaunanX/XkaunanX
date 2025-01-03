@@ -1,4 +1,4 @@
-![GIF Divertido](https://usagif.com/wp-content/uploads/gifs/water-20.gif)
+![GIF Divertido](https://media1.tenor.com/m/stKjYPvgKDgAAAAd/dvd-old.gif)
 
 # Hello, Devs! 👋  
 
