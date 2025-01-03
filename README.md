@@ -17,8 +17,8 @@ My name is Damian Piazza, I am 20 years old, and I am from Argentina. I am a pro
 
 I have compiled and organized materials about systems engineering in personal spaces on **OneDrive** and **Google Drive**  
 
-- 📂 **OneDrive**: [Explore](https://onedrive.live.com/?id=your-link)  
-- 📂 **Google Drive**: [Explore](https://drive.google.com/drive/folders/your-link)  
+- 📂 **OneDrive**: [Explore](https://1drv.ms/f/c/d7def0ef101a654b/EvZ43I7a3yJKh7BMDT1hlWwB2_Rtqofs9NetOgsMOVyOTA?e=dmlsvw)  
+- 📂 **Google Drive**: [Explore](https://drive.google.com/drive/folders/1wjFHtGZdHBES-aslDcC5ILQC3GJPi1YH?usp=sharing)  
 
 #### 🛠️ Tools and Technologies  
 
