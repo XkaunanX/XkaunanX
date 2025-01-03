@@ -1,4 +1,4 @@
-![GIF Divertido](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![GIF Divertido](https://usagif.com/wp-content/uploads/gifs/water-20.gif)
 
 # Hello, Devs! 👋  
 
