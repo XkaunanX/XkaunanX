@@ -1,4 +1,4 @@
-![GIF Placeholder](https://usagif.com/wp-content/uploads/gifs/water-20.gif)  
+![GIF Divertido](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 # Hello, Devs! 👋  
 
@@ -10,7 +10,7 @@ My name is Damian Piazza, I am 20 years old, and I am from Argentina. I am a pro
 - 🌱 Currently in the third year of my degree  
 
 ## 📫 Connect with Me  
-- 💼 [Linkedin](https://www.linkedin.com/in/damian-piazza-854a6723a)  
+- 💼 Connect with me by: [Linkedin](https://www.linkedin.com/in/damian-piazza-854a6723a)  
 - ✉️ Email me: [damipiazza11@gmail.com](mailto:damipiazza11@gmail.com)  
 
 ## 🌐 Knowledge in Systems Engineering  
