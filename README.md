@@ -1,7 +1,7 @@
-# Hello, Devs! 👋  
-
-![GIF Placeholder](https://via.placeholder.com/800x200)  
+![GIF Placeholder](https://usagif.com/wp-content/uploads/gifs/water-20.gif)  
 *Imagine a GIF here covering this entire section.*  
+
+# Hello, Devs! 👋  
 
 My name is Damian Piazza, I am 20 years old, and I am from Argentina. I am a professional and personal IT technician. I am passionate about technology and always looking to learn more about it.  
 
@@ -18,8 +18,8 @@ My name is Damian Piazza, I am 20 years old, and I am from Argentina. I am a pro
 
 I have compiled and organized materials about systems engineering in personal spaces on **OneDrive** and **Google Drive**  
 
-- 📂 **OneDrive**: [Explore collection](https://onedrive.live.com/?id=your-link)  
-- 📂 **Google Drive**: [Explore collection](https://drive.google.com/drive/folders/your-link)  
+- 📂 **OneDrive**: [Explore](https://onedrive.live.com/?id=your-link)  
+- 📂 **Google Drive**: [Explore](https://drive.google.com/drive/folders/your-link)  
 
 ## 🛠️ Tools and Technologies  
 
