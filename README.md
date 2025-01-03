@@ -39,3 +39,7 @@ Here are some of the tools and technologies I am comfortable with:
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-gray?logo=gnu-bash&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-orange?logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-blue?logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-black?logo=figma&logoColor=white)
+![Enterprise Architect](https://img.shields.io/badge/Enterprise%20Architect-gray?logo=sparxsystems&logoColor=white)
+
