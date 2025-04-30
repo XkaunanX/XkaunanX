@@ -15,7 +15,7 @@ My name is Damian Piazza, I am 20 years old, and I am from Argentina. I am a pro
 
 #### 🌐 Knowledge in Systems Engineering  
 
-I have compiled and organized materials about systems engineering in personal spaces on **OneDrive** and **Google Drive**  
+I have compiled and organized materials about systems engineering in personal spaces on **OneDrive** 
 
 - 📂 **OneDrive**: [Explore](https://frlputneduar-my.sharepoint.com/:f:/g/personal/damian_piazza_alu_frlp_utn_edu_ar/EtnMkwaMOcREungeMUlGticBMQrRU76ueqreEMAlzgUbVA?e=lZ3Wnq)  
 
